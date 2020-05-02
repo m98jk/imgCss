@@ -14,6 +14,7 @@ import {imgCss} from 'imgCss'
 imgCss({
     shadow_type : 'hard'
     padding: false
+    bgColor : 'red'
 });
 
 ```

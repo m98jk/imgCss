@@ -1,0 +1,23 @@
+{
+  "name": "imgcss",
+  "version": "1.0.0",
+  "description": "test package to deploy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m98jk/imgCss.git"
+  },
+  "keywords": [
+    "css",
+    "shadows"
+  ],
+  "author": "m98jk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m98jk/imgCss/issues"
+  },
+  "homepage": "https://github.com/m98jk/imgCss#readme"
+}
