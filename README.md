@@ -9,7 +9,7 @@ Get your css done for non-designer
 Then...
 
 ```
-import {imgCss} from 'imgCss'
+import {imgCss} from 'imgcss'
 
 imgCss({
     shadow_type : 'hard'
